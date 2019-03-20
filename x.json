@@ -1,0 +1,18 @@
+{
+"filename":"125436783.nxs",
+    "files":{
+        "8bacf956-02a3-11e9-af16-64006a47d649":{
+            "filename":"/data_files/test.nxs",
+            "topics":{
+                "TEST_sampleEnv":{
+                    "error_message_too_small":0,
+                    "error_no_flatbuffer_reader":0,
+                    "error_no_source_instance":0,
+                    "messages_processed":0
+                    }
+                }
+            }
+        },
+    "service_id":"kafka-to-nexus--host:SERVERNAME--pid:59001",
+    "type":"filewriter_status_master"
+}
